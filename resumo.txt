@@ -1,1 +1,4 @@
-Insira seu resumo aqui!
+Insira seu resumo aqui!]
+
+Introduzimos com uma aula sobre Programação Web, como curiosidades e fatos sobre a internet e sua origem,
+ aprendemos elementos principais de um site, como o Front-And e o Back-And e como eles se conectam, e finalizamos com uma explicação sobre o GitHub e o canvas.
